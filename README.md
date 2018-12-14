@@ -48,3 +48,9 @@ public/js/app.js contains the HttpProvider for geth rpc for web3.
 
     bash copy.sh
     nodemon
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
